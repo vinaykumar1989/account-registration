@@ -13,4 +13,8 @@ public class Account {
 
     private Long aadharNumber;
 
+    private String panNumber;
+
+    private String mobileNumber;
+
 }
